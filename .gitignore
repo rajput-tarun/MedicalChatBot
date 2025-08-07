@@ -1,0 +1,13 @@
+outputs 
+llama3_2*
+.triton
+.lightning_studio
+.cursor-server 
+.idea/
+.vscode-server
+.vscode/
+.wget-hsts 
+__pycache__/ 
+unsloth_compiled_cache/
+lora_adapter 
+tokenizer
